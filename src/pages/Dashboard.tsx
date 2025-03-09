@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { BarChart3, DollarSign, TrendingUp, ArrowUpRight, ArrowDownRight, PieChart, Calendar, TrendingDown, Trash2 } from 'lucide-react';
 import { PieChart as RechartsChart, Pie, Cell, ResponsiveContainer, Tooltip, Legend } from 'recharts';
 import TransactionForm from '../components/TransactionForm';
